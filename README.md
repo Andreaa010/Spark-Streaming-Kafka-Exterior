@@ -46,3 +46,4 @@ spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.6 spark_s
 Y de esta forma podemos ver el análisis que estudia en tiempo real los registros de ciudadanos en el exterior, midiendo el número de registros y la edad promedio por país a partir de los datos abiertos de Colombia.
 Utilizando Apache Kafka para la transmisión de datos y Apache Spark Streaming para el procesamiento en vivo y la generación de estadísticas por intervalos de tiempo.
 
+Autor: Andrea Arias Bermúdez
